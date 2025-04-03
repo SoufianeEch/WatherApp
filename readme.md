@@ -16,11 +16,23 @@ A simple weather application that fetches real-time weather data for any city us
 ## 📸 Screenshots  
 
 ### 1. **Search Interface**  
-![Search Interface](https://github.com/SoufianeEch/WatherApp/blob/main/imgs/Screenshot01.png)  
-*Users can enter a city name to fetch weather data.*  
 
+<div align=center>
+
+![Search Interface](https://github.com/SoufianeEch/WatherApp/blob/main/imgs/Screenshot01.png)  
+
+</div>
+
+*Users can enter a city name to fetch weather data.*  
+git
 ### 2. **Weather Display**  
+
+<div align=center>
+
 ![Weather Display](https://github.com/SoufianeEch/WatherApp/blob/main/imgs/Screenshot02.png)  
+
+</div>
+
 *Shows temperature, location, and weather icon.*  
 
 ---
