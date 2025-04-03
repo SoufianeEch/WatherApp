@@ -19,7 +19,7 @@ A simple weather application that fetches real-time weather data for any city us
 
 <div align=center>
 
-![Search Interface](https://github.com/SoufianeEch/WatherApp/blob/main/imgs/Screenshot01.png)  
+![Search Interface](https://github.com/SoufianeEch/WeatherApp/blob/main/imgs/Screenshot01.png)  
 
 </div>
 
@@ -29,7 +29,7 @@ git
 
 <div align=center>
 
-![Weather Display](https://github.com/SoufianeEch/WatherApp/blob/main/imgs/Screenshot02.png)  
+![Weather Display](https://github.com/SoufianeEch/WeatherApp/blob/main/imgs/Screenshot02.png)  
 
 </div>
 
@@ -42,7 +42,7 @@ git
 ### 1. **Installation**  
 Clone the repository:  
 ```bash  
-git clone https://github.com/SoufianeEch/weather-app.git  
+git clone https://github.com/SoufianeEch/WeatherApp.git
 ```  
 
 ### 2. **Configuration**  
@@ -77,4 +77,4 @@ weather-app/
 ---
 
 
-🔗 **GitHub Repo**: [github.com/your-repo/weather-app](https://github.com/SoufianEch/weather-app)  
+🔗 **GitHub Repo**: [github.com/your-repo/weather-app](https://github.com/SoufianEch/WeatherApp)  
